@@ -1,0 +1,66 @@
+div .navbar-expand-lg {
+	border-radius: 0px 0px 25px 25px;
+}
+.navbar .container {
+	height: 60px;
+}
+.bg-gray {
+	background-color: rgb(245, 245, 245);
+	/* padding-bottom: 100px; */
+}
+.bg-gray .container {
+	/* padding-top: 75px; */
+}
+.cart-purchases {
+	/* display: flex;
+	flex-direction: column; */
+	max-height: 400px;
+ 	 overflow-y: auto;
+  }
+.cart-purchases .img-cart{
+	width:140px;
+	height: 180px;
+}
+  .order-row {
+	/* border: 5px solid #5f2eea; */
+	/* border-radius: 10%; */
+	padding: 10px;
+	margin-bottom: 10px;
+	width:1000px;
+	height: 200px;
+  }
+
+  
+  .img-cart {
+	margin-right: 80px;
+  }
+  
+  .movie_info {
+	display: flex;
+	flex-direction: column;
+	margin-right: 80px;
+  }
+  
+  .movie_info > * {
+	margin-bottom: 20px;
+  }
+  .choosing_seat{
+	margin-right: 100px;
+  }
+  
+  .check_movie {
+	display: flex;
+	flex-direction: column;
+  }
+  
+  .checkbox-row {
+	margin-bottom: 10px; /* Khoảng cách giữa hai hàng */
+  }
+  
+  .button-row {
+	margin-top: 10px; /* Khoảng cách giữa hai hàng */
+  }
+  .checkk {
+	transform: scale(1.5); /* Adjust the scale value as needed */
+	margin-right: 10px; /* Add some spacing between checkbox and button */
+  }

@@ -1,0 +1,64 @@
+/* styles.css */
+
+/* Custom styles for the Jumbotron */
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .jumbotron h1 {
+    color: #343a40;
+  }
+  
+  .jumbotron p {
+    color: #343a40;
+  }
+  
+  /* Custom styles for the Navbar */
+  .navbar {
+    background-color: #343a40;
+  }
+  
+  .navbar-brand .nav-link {
+    color: #fff;
+  }
+  
+  .navbar-brand .nav-link:hover {
+    color: #ccc;
+  }
+  
+  .navbar-text .btn {
+    background-color: #fff;
+    color: #343a40;
+  }
+  
+  .navbar-text .btn:hover {
+    background-color: #ccc;
+    color: #343a40;
+  }
+  
+  /* Custom styles for the Sidebar */
+  .nav-link {
+    color: #343a40;
+  }
+  
+  .nav-link:hover {
+    color: #ccc;
+  }
+  
+  /* Custom styles for the Container */
+  .container {
+    margin-top: 20px;
+  }
+  
+  /* Custom styles for the MovieTable */
+  .table {
+    background-color: #f8f9fa;
+  }
+  
+  /* Custom styles for the CreateMovie and EditMovie forms */
+  .form {
+    margin-top: 20px;
+  }
+  
